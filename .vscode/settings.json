@@ -1,0 +1,8 @@
+{
+    "cmake.sourceDirectory": "/home/artem/CProjects/Shaputsko A.E./lab02",
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "unistd.h": "c",
+        "limits.h": "c"
+    }
+}
